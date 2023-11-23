@@ -18,6 +18,7 @@
 		7781A7632B0FB9630029607A /* CryptoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7781A7622B0FB9630029607A /* CryptoViewModel.swift */; };
 		7781A77E2B0FC23C0029607A /* RxCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = 7781A77D2B0FC23C0029607A /* RxCocoa */; };
 		7781A7862B0FC23C0029607A /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 7781A7852B0FC23C0029607A /* RxSwift */; };
+		7781A78E2B0FEAB50029607A /* CryptoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7781A78D2B0FEAB50029607A /* CryptoTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		7781A75E2B0F835A0029607A /* Crypto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Crypto.swift; sourceTree = "<group>"; };
 		7781A7602B0F90F50029607A /* Webservice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webservice.swift; sourceTree = "<group>"; };
 		7781A7622B0FB9630029607A /* CryptoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoViewModel.swift; sourceTree = "<group>"; };
+		7781A78D2B0FEAB50029607A /* CryptoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				7781A7462B0F7DC20029607A /* AppDelegate.swift */,
 				7781A7482B0F7DC20029607A /* SceneDelegate.swift */,
 				7781A74A2B0F7DC20029607A /* ViewController.swift */,
+				7781A78D2B0FEAB50029607A /* CryptoTableViewCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 				7781A7612B0F90F50029607A /* Webservice.swift in Sources */,
 				7781A7492B0F7DC20029607A /* SceneDelegate.swift in Sources */,
 				7781A7632B0FB9630029607A /* CryptoViewModel.swift in Sources */,
+				7781A78E2B0FEAB50029607A /* CryptoTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
